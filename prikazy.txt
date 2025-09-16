@@ -1,0 +1,5 @@
+pro stahnutí do počítače: git pull 
+
+pro vložení do githubu: git add --all
+   			git commit -m "první"
+			git push 
